@@ -28,6 +28,8 @@ Visit the Settings > Tidy Dashboard page in wp-admin and select the widgets you 
 About
 =====
 
+Version: 1.0
+
 Written by Adam Pope of Storm Consultancy - <http://www.stormconsultancy.co.uk>
 
 License
