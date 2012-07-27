@@ -17,7 +17,7 @@ You can optionally hide the following widgets:
 About
 =====
 
-Written by (Storm Consultancy)[http://www.stormconsultancy.co.uk]
+Written by Adam Pope of Storm Consultancy - <http://www.stormconsultancy.co.uk>
 
 License
 =======
