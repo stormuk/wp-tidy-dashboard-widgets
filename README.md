@@ -14,6 +14,17 @@ You can optionally hide the following widgets:
 - Right Now  
 - WordPress Blog  
 
+Installation
+============
+
+Download a zip of the repository and put in a *tidy-dashboard-widgets* directory inside
+wp-content/plugins.
+
+Go to the plugins page and activate it.
+
+Visit Settings > Tidy Dashboard and select the widgets you want to hide.
+
+
 About
 =====
 
