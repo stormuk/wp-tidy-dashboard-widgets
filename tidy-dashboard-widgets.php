@@ -7,6 +7,7 @@
  * Version: 1.0
  * Author: Adam Pope
  * Author URI: http://www.stormconsultancy.co.uk
+ * License: MIT
  *
  * Copyright (c) 2012 Storm Consultancy (EU) Ltd, 
  * http://www.stormconsultancy.co.uk/
