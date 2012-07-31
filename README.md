@@ -32,6 +32,10 @@ Version: 1.0
 
 Written by Adam Pope of Storm Consultancy - <http://www.stormconsultancy.co.uk>
 
+Storm Consultancy are a web design and development agency based in Bath, UK.
+
+If you are looking for a [Bath WordPress Developer](http://www.stormconsultancy.co.uk/Services/Bath-WordPress-Developers), then [get in touch](http://www.stormconsultancy.co.uk/Contact)!
+
 License
 =======
 
