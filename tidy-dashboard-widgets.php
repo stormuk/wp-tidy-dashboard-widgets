@@ -79,6 +79,10 @@ $TIDY_DASHBOARD_WIDGETS = array(
     )
 );
 
+/*
+ * Do the actual removing of widgets.  
+ * Callback for the wp_dashboard_setup action.
+ */
 function tidy_dashboard_widgets() {
   global $TIDY_DASHBOARD_WIDGETS;
 
@@ -89,7 +93,9 @@ function tidy_dashboard_widgets() {
   }
 } 
 
-// Register our function
+/*
+ * Register our function
+ */
 add_action('wp_dashboard_setup', 'tidy_dashboard_widgets');
 
 

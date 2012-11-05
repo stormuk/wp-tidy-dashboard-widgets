@@ -31,6 +31,10 @@ if(is_admin()){
 }
 
 
+/*
+ * Register the settings we need for each widget.
+ * Callback for the admin_init action.
+ */
 function tidy_dashboard_widgets_register_settings(){
   global $TIDY_DASHBOARD_WIDGETS;
   foreach($TIDY_DASHBOARD_WIDGETS as $k => $v){
@@ -38,6 +42,10 @@ function tidy_dashboard_widgets_register_settings(){
   }
 }
 
+/*
+ * Register the menu item for the options page.
+ * Callback for the admin_menu action.
+ */
 function tidy_dashboard_widgets_menu(){
   add_options_page(
     "Tidy Dashboard Widgets Options", 
@@ -48,7 +56,10 @@ function tidy_dashboard_widgets_menu(){
   );
 }
 
-
+/*
+ * Create the options page.
+ * Callback for the add_options_page action.
+ */
 function tidy_dashboard_widgets_options(){
   global $TIDY_DASHBOARD_WIDGETS;
   ?>
