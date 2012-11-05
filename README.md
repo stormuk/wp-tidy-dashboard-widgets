@@ -18,11 +18,11 @@ Installation
 ============
 
 Download a zip of the repository and put in a *tidy-dashboard-widgets* directory inside
-wp-content/plugins.
+*wp-content/plugins*.
 
 Go to the plugins page and activate it.
 
-Visit Settings > Tidy Dashboard and select the widgets you want to hide.
+Visit the Settings > Tidy Dashboard page in wp-admin and select the widgets you want to hide.
 
 
 About
